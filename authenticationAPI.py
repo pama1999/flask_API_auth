@@ -16,8 +16,5 @@ def hello_world():
         else:
             return "Sorry your status is not Active"
 
-
-    return 'Hello World!'
-
 if __name__ == '__main__':
     app.run()
