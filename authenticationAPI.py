@@ -12,7 +12,7 @@ def hello_world():
 
     for user in data['users']:
         if key == user['key']:
-            return "Access granted! your status is " + user['status']
+            return "Access granted! your status is: " + user['status']
         else:
             return "Sorry your status is not Active"
 
