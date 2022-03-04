@@ -2,7 +2,8 @@
   "users": [
     {
       "key": "34336566-3961-3539-3335-623934343136",
-      "status": "active"
+      "status": "active",
+      "locked_ip": "127.0.0.1"
     }
   ]
 }
