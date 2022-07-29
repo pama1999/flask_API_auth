@@ -1,4 +1,4 @@
-# Flask Simple API Auth
+# Flask Very Simple API Auth
 
 This is a Python Flask oriented simple API Authentication through a local JSON File
 
